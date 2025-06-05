@@ -1,0 +1,2 @@
+# ImageColorDetection-opencv
+Artificial Intelligence
